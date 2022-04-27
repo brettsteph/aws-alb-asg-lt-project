@@ -1,0 +1,7 @@
+AWS Project - using default VPC
+
+1. Security Groups
+2. Application Load Balancer & Target Groups
+3. Launch Template with User data
+4. Autoscaling Group
+5. Relaunch in different environments (Staging & Production)
